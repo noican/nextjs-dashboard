@@ -45,3 +45,7 @@ Thumbs.db
 
 # NextJs folder
 .next/
+
+#deployment build
+out/
+build
