@@ -48,4 +48,4 @@ Thumbs.db
 
 #deployment build
 out/
-build
+build/
