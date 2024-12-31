@@ -47,5 +47,6 @@ Thumbs.db
 .next/
 
 #deployment build
-out/
 build/
+/build
+/404
